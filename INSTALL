@@ -1,0 +1,8 @@
+# Juego de la vida en Python
+# Instalacion
+
+### Prerequisitos
+ - python
+ - tkinter
+### Ejecucion
+`python life.py`

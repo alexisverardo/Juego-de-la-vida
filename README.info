@@ -1,0 +1,20 @@
+# Juego de la vida en Python
+
+## Definicion de funciones y explicacion de codigo
+
+Clase **GameOfLife**
+ Estructura necesaria para usar en el algoritmo del juego de la vida
+ Columnas.
+ Filas.
+ Atributos auxiliares
+  Funcion **__str__(self)**
+  Devolucion del string necesario para graficar las filas y columnas en el entorno grafico.
+  Funcion **evaluate**
+  Evalua en un punto de la matriz cuantos puntos de la matriz vecino estan activados.
+  Funcion **test**
+  Recorre toda la matriz complemamente evaluando en que estado debe estar cada punto usando la funcion anterior
+funcion **workGame**
+ Tiene la logica que ejecuta el bucle de la matriz y lo va imprimiendo en la interfaz grafica
+funcion **clicked**
+ Se activa al precionar el boton iniciar y toma los parametros establecido en la interfaz
+ para ejecutar la funcion workGame en un hilo a parte para no detener el programa.

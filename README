@@ -1,0 +1,8 @@
+# Juego de la vida en Python
+### Ejecucion
+`python life.py`
+
+Al ejecutar este script se devolvera:
+- Se lanzara una interfaz grafica, que contara con la configuracion de la matriz y el boton para inizar el juego de la vida.
+- Al iniciarlo se comenzara a mostrar el grafico en la interfaz grafica.
+
