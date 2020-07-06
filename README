@@ -1,5 +1,5 @@
-# Juego de la vida en Python
-### Ejecucion
+#Juego de la vida en Python
+###Ejecucion
 `python life.py`
 
 Al ejecutar este script se devolvera:
